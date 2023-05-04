@@ -1,0 +1,13 @@
+* C:\Users\j3\Desktop\IE_fotos\Filtro_Passa_Baixa_fc_200hz_Prática_III.asc
+XU1 N005 N004 N002 opamp Aol=100K GBW=10Meg
+C1 0 N004 10n
+C2 N002 N001 10n
+R1 N004 N001 3.9K
+R3 0 N005 10k
+R4 N005 N002 12k
+R2 N001 N003 3.9K
+V1 N003 0 SINE(0 1 10K) AC 1
+.lib opamp.sub
+.tran 2m
+.backanno
+.end
