@@ -1,0 +1,30 @@
+
+Links:
+
+InstrumentacaoEletronica_AtivPrat_I_Amplificador_inversor:
+
+https://docs.google.com/document/d/17y292nZtgBwWrNcEZCtpjexkiF9AwozznrgDuh6qvGc/edit
+
+
+InstrumentacaoEletronica_AtivPrat_IIA_Filtros_Passa_Baixa (FPB):
+
+https://docs.google.com/document/d/1Fz_JLyjsL7RDVPwhjqaNDh74giit8egniLdYw8pPBBg/edit
+
+Cálculos Wolfran:
+
+https://www.wolframalpha.com/input?i=f+%3D+1%2F%283900*2*pi*.000000010%29
+https://www.wolframalpha.com/input?i=f0+%3D+%281+%2F+%283900+*+0.000000010%29+%29*+sqrt%282%29
+https://www.wolframalpha.com/input?i=4000+%3D+1%2F%28r*2*pi*.000000010%29
+https://www.wolframalpha.com/input?i=4000+%3D+1%2Fr*2*pi*.000000047
+https://www.wolframalpha.com/input?i=4000+%3D+1%2Fr*2*pi*47
+
+
+Planilhas:
+https://docs.google.com/spreadsheets/d/1EDgp0kgRFTO-PWlqGZz7UNKZRLJGPIxVR4g-wMNdl9A/edit#gid=0
+https://docs.google.com/spreadsheets/d/14nh9DRUjvw1SxIGn02Sgj8A4ajCyj9lDbPS48wO0qRY/edit#gid=0
+
+Videos:
+#14 - Filtro Passa Altas Ativo de 2ª Ordem - https://youtu.be/dILSK5fhJMY
+Capacitores - https://www.youtube.com/watch?time_continue=465&v=ZYH9dGl4gUE&embeds_euri=https%3A%2F%2Fwww.buildcircuit.com%2F&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo
+
+Data Maio 2023
